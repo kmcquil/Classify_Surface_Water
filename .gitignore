@@ -1,0 +1,7 @@
+
+data/**
+!/data/**/
+!/data/**/.gitkeep
+
+outputs/prediction.tif
+visualization
