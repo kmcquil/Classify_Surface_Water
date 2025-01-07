@@ -9,6 +9,7 @@ Most of my coursework in school taught ML in R. This is a short and simple class
 ## Data
 - Download theh USGS National Hydrography Watershed Boundary Dataset HUC 12 to obtain the boundaries for the Back Creek New River watershed located near Blacksburg, VA
 - Generate a Sentinel-2 average cloud-masked composite from July 2024 using the STAC API.
+- Data not included in this repo bc it was too big.
 
 ## Create a labeled training dataset
 - Select 4 simple training labels
